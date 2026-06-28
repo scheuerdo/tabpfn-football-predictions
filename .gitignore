@@ -1,0 +1,12 @@
+# Python specific ignores
+*.pyc
+*.pyd
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+__pycache__/*
+
+# Ruff cache
+.ruff_cache/*
