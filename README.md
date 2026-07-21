@@ -77,11 +77,6 @@ Base columns:
 | `h2h_team1_winrate` | Home team win rate in head-to-head |
 | `h2h_team1_gd` | Home team average goal difference in head-to-head |
 | `rest1`, `rest2` | Days since each team's last match (capped at 45) |
-
-Added goal-rating & draw columns:
-
-| Feature | Description |
-|---|---|
 | `att1`, `att2` | Online attack (goal-scoring) rating of home / away team (0 = league average) |
 | `def1`, `def2` | Online defensive leakiness rating (higher = concedes more) |
 | `xg1`, `xg2` | Pre-match expected goals for home / away from the attack/defense model |

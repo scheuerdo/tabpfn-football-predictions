@@ -10,3 +10,6 @@ __pycache__/*
 
 # Ruff cache
 .ruff_cache/*
+
+/ref
+CHANGES.md
